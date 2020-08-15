@@ -1,0 +1,46 @@
+ID| Name| Surname| Email                   |class_id 
+_________________________________________________________
+1 |Aidan|Collings' | AidanCollings@rhyta.com' | 1
+32 |Magnus|Skaug' | MagnusSkaug@rhyta.com' | 1
+33 |Patrick|Aas' | PatrickAas@armyspy.com' | 3
+34 |Vincent|Karstensen' | VincentKarstensen@teleworm.us' | 4
+35 |Herman|Høiby' | HermanHoiby@dayrep.com' | 6
+36 |Nikolai| Oftedal' | NikolaiOftedal@jourrapide.com' | 5
+37 |Tina|Brænd' | TinaBraend@jourrapide.com' | 4
+38 |Amelia|Lund' | AmeliaLund@teleworm.us' | 7
+39 |Sebastian|Pedersen' | SebastianPedersen@rhyta.com' | 8
+40 |Marius|Andersen' | MariusAndersen@rhyta.com' | 1
+41 |Amalie|Knutsen' | AmalieKnutsen@teleworm.us' | 2
+42 |Ludvig|Aase' | LudvigAase@dayrep.com' | 3
+43 |Hanna|Roksvag' | HannaRoksvag@armyspy.com' | 4
+44 |Sigrid|Svendsen' | SigridSvendsen@teleworm.us' | 5
+45 |Amalie|Nordal' | AmalieNordal@armyspy.com' | 6
+46 |Victor|Holland' | VictorHolland@jourrapide.com' | 7
+47 |Kristian|Bakken' | KristianBakken@teleworm.us' | 7
+48 |William|Jordal' | WilliamJordal@armyspy.com' | 8
+49 |Daniel|Bjorlo' |  DanielBjorlo@rhyta.com' | 8
+50 |Elisabeth|Solheim' | ElisabethSolheim@dayrep.com' | 9
+51 |Fatima|Espenes' | FatimaEspenes@rhyta.com' | 10
+52 |Alvilde|Heldal' | AlvildeHeldal@armyspy.com' | 1
+53 |Mikael|Horpestad' | MikaelHorpestad@armyspy.com' | 2
+54 |Kornelia|Rohde' |  KorneliaRohde@teleworm.us' | 3
+55 |Eline|Mortensen' | ElineMortensen@teleworm.us' | 4
+56 |Henrik|Solbakken' | HenrikSolbakken@jourrapide.com' | 5
+57 |Sander|Nikolaisen' | SanderNikolaisen@jourrapide.com' | 5
+58 |Sofie|Einarsen' |  SofieEinarsen@rhyta.com' | 6
+59 |Karine|Birkeland' |  KarineBirkeland@armyspy.com' | 7
+60 |Charlotte|Heltne' |  CharlotteHeltne@dayrep.com' | 8
+61 |Sofia|Bjelland' | SofiaBjelland@armyspy.com' | 8
+62 |Gabriel|Malmin' | GabrielMalmin@rhyta.com' | 9
+63 |Arin|Gaustad' | ArinGaustad@jourrapide.com' | 9
+64 |Jakob|Karlsen' | JakobKarlsen@armyspy.com' | 10
+65 |Agnes|Olsen' | AgnesOlsen@dayrep.com' | 1
+66 |Ida|Steen' | IdaSteen@armyspy.com' | 2
+67 |Gustav|Jahr' | GustavJahr@dayrep.com' | 3
+68 |Gaute|Johansen' | GauteJohansen@rhyta.com' | 4
+69 |Oscar|Opsahl' | OscarOpsahl@armyspy.com' | 5
+70 |Martine|Berg' | MartineBerg@teleworm.us' | 6
+71 |Sophia|Weberg' | SophiaWeberg@armyspy.com' | 7
+72 |Hannah|Larssen' | HannahLarssen@teleworm.us' | 8
+73 |Markus|Rasmussen' | MarkusRasmussen@dayrep.com' | 9
+74 |Elias|Skjerve' | EliasSkjerve@dayrep.com' | 10
